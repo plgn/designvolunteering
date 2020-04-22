@@ -21,4 +21,4 @@
 ## Контакты
 
 
-Пишите [@dieinsuffering](tg://resolve/?domain=dieinsuffering) или [@aizek_live](tg://resolve/?domain=aizek_live)
+Пишите [@dieinsuffering](tg://resolve/?domain=dieinsuffering)/kira.gorshkova@gmail.com или [@aizek_live](tg://resolve/?domain=aizek_live)
