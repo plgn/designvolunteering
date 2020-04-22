@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+## Инициатива дизайн-волонтерства
 
-You can use the [editor on GitHub](https://github.com/plgn/designvolunteering/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Привет всем, кто готов делать полезные дела!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+В этой группе будут появляться срочные и не очень задачки от благотворительных организаций. Вся необходимая информация будет появляться в гугл-табличке (https://docs.google.com/spreadsheets/d/1SuVNVmilnyQmdZnkQG3sfzgFJ-hULQq3VpE_qIIUgGg/edit#gid=0), там же можно записаться в исполнители. Если вы сами нашли НКО, которой нужна дизайн-помощь - смело кидайте информацию в чат и пишите задачи в табличку
 
-### Markdown
+Описание в разработке.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Идея проекта
 
-```markdown
-Syntax highlighted code block
+Сейчас многим НКО не хватает рук и денег, чтобы решить текущие задачи с дизайном. Те, у кого есть время, желание и навыки приглашаются включиться в этот процесс на безвозмездной основе. Задачи есть как оперативные, так и на перспективу, иногда просто нужен совет
 
-# Header 1
-## Header 2
-### Header 3
+## Чем вы можете помочь
 
-- Bulleted
-- List
+1. Взять задачу из списка
+2. Добавить себя в групповое портфолио
 
-1. Numbered
-2. List
+## Что делать, если вам нужна помощь
 
-**Bold** and _Italic_ and `Code` text
+(кому мы помогаем?)
 
-[Link](url) and ![Image](src)
-```
+## Групповое портфолио
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Задачи
 
-### Jekyll Themes
+https://docs.google.com/spreadsheets/d/1SuVNVmilnyQmdZnkQG3sfzgFJ-hULQq3VpE_qIIUgGg/edit#gid=0
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/plgn/designvolunteering/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Контакты
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Пишите @dieinsuffering или @aizek_live
